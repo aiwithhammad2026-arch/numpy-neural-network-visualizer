@@ -2,7 +2,7 @@
 
 > **No PyTorch. No TensorFlow. Just NumPy, plus an interactive visualizer.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-00f2fe?style=for-the-badge)](https://<username>.github.io/neural-network-from-scratch/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-00f2fe?style=for-the-badge)](https://aiwithhammad2026-arch.github.io/numpy-neural-network-visualizer/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-8b5cf6?style=for-the-badge)](https://www.python.org/)
 
@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 Experience the real-time neural network learning in your browser:
-👉 **[Launch Interactive Visualizer](https://<username>.github.io/neural-network-from-scratch/)** *(Placeholder)*
+👉 **[Launch Interactive Visualizer](https://aiwithhammad2026-arch.github.io/numpy-neural-network-visualizer/)**
 
 ---
 
@@ -33,8 +33,8 @@ Experience the real-time neural network learning in your browser:
 Clone this repository and run the standalone training script:
 
 ```bash
-git clone https://github.com/<username>/neural-network-from-scratch.git
-cd neural-network-from-scratch
+git clone https://github.com/aiwithhammad2026-arch/numpy-neural-network-visualizer.git
+cd numpy-neural-network-visualizer
 
 # Install dependencies
 pip install -r requirements.txt
